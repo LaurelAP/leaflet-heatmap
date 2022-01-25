@@ -5,6 +5,8 @@ to transform points into a heat layer.
 ![Screenshot](screenshot.png)
 
 ## Demo
+My map: https://laurelap.github.io/leaflet-heatmap/
+
 https://handsondataviz.github.io/leaflet-heatmap
 
 Sample data by the [Metropolitan Police Service](https://data.police.uk/data/) for January–July 2020.
